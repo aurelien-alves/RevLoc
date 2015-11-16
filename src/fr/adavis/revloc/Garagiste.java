@@ -8,6 +8,8 @@ public class Garagiste {
 		
 		System.out.println("Classe Garagiste v2") ;
 		
+		System.out.println("Classe Garagiste v3") ;
+		
 	}
 	
 }
