@@ -16,6 +16,8 @@ public class Garagiste {
 		
 		System.out.println("Classe Garagiste v6") ;
 		
+		System.out.println("Classe Garagiste v7") ;
+		
 	}
 	
 }
