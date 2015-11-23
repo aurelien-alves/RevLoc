@@ -12,6 +12,8 @@ public class Garagiste {
 		
 		System.out.println("Classe Garagiste v4") ;
 		
+		System.out.println("Classe Garagiste v5") ;
+		
 	}
 	
 }
